@@ -3,8 +3,8 @@
 My AWS DevOps learning notes, hands-on labs, projects and interview preparation.
 
 ## About Me
-Java/Spring Boot backend developer (3+ years) transitioning to AWS DevOps Engineering.
-Is repo me main apni learning journey document kar raha hoon.
+Java/Spring Boot backend developer with 3+ years of experience, transitioning to AWS DevOps Engineering.
+This repository documents my learning journey, hands-on labs and portfolio projects.
 
 ## Roadmap
 - [ ] Linux & Shell scripting
